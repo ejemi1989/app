@@ -12,3 +12,4 @@ itsdangerous==2.1.2
 scikit-learn>=1.1.2
 MarkupSafe==2.1.1
 matplotlib>=3.5.3
+setuptools==63.2.0
